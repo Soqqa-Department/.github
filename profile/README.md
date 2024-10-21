@@ -1,3 +1,4 @@
-<div align="center">
-<!--   <img src="../img/banner.png" width="100%"> -->
-</div>
+```
+God provides the wind,
+but man must raise the sails
+```
